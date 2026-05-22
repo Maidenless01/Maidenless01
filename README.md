@@ -1,17 +1,97 @@
-# 💫 About Me:
-🔭 I’m currently working on a CLIR system <br>🌱 I’m currently learning Backend API and Machine Learning <br>💬 Ask me about Video Game Lores<br>
+<div align="center">
 
+# Hey, I'm Ayyan Khan 👋
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayan.azim@gmail.com) 
+**CS (Data Science) undergrad @ BK Birla Institute of Engineering & Technology, Pilani**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+*Building things at the intersection of data, language, and systems.*
 
+[![Email](https://img.shields.io/badge/Email-ayan.azim%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayan.azim@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayyan%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayyan-khan)
+[![GitHub](https://img.shields.io/badge/GitHub-Maidenless01-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Maidenless01)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
+---
 
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a Computer Science undergrad specialising in Data Science with a CGPA of **8.28/10**. I like working across the stack — from training ML models and building semantic search engines, to writing C++ physics simulations and shipping full-stack web apps.
+
+Currently exploring **NLP, RAG pipelines, and LLMs**, with a side interest in game dev physics.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+`Python` `C++` `C` `Java` `C#` `SQL` `R` `Stata`
+
+**Data & ML**
+`Pandas` `NumPy` `Scikit-Learn` `TensorFlow` `PyTorch` `Transformers` `Matplotlib`
+
+**Web & Backend**
+`React JS` `FastAPI` `LAMP Stack` `MongoDB`
+
+**Tools & Infra**
+`Docker` `Qdrant` `Unity` `Git`
+
+---
+
+## 🚀 Projects
+
+### 🔍 [Semantic Cross-Lingual Document Search](https://github.com/Maidenless01)
+> NLP · Python · FastAPI · Qdrant · Docker · Sentence Embeddings
+
+Semantic search engine supporting multilingual queries across **50+ languages**. Query and document languages don't need to match — built on sentence-embedding models with a FastAPI + Qdrant + Docker stack.
+
+---
+
+### 📊 [DataRate — CSV Auditing & Cleaning App](https://github.com/Maidenless01)
+> Python · Streamlit · Google Drive API
+
+Streamlit app that audits and cleans CSV datasets up to **100k rows** from local files or Google Drive. A dual-model scoring engine returns 5 quality metrics per dataset (score, grade, color, breakdown, summary), cutting manual data-cleaning time by **60%**.
+
+---
+
+### ⚙️ [Physics Engine](https://github.com/Maidenless01)
+> C++
+
+C++ physics engine with collision detection, rigid body simulation, and multi-backend visualization. Implements Euler integration for motion and elastic collision response, with real-time rendering across **3 visualization backends**.
+
+---
+
+### 🎮 [Endless Runner](https://github.com/Maidenless01)
+> C# · Unity
+
+Endless runner built in Unity with a dynamic obstacle generation system handling **50+ concurrent colliders** at a stable 60 FPS.
+
+---
+
+## 💼 Experience
+
+**Web Developer** — *Birla Placement Training & Research Institute, Pilani* *(Jun – Aug 2025)*
+Built the official BTTI Pilani website on a LAMP stack. Reduced page load times by **40%**, achieving sub-2s loads with a CMS usable by non-technical staff.
+
+**Game Developer Trainee** — *Unity Remote* *(May – Jun 2020)*
+Engineered core gameplay physics in Unity (C#), reducing physics bugs by **~35%** and cutting manual level design time by **50%** with a procedural level randomisation system.
+
+---
+
+## 📚 Coursework
+
+Machine Learning · Foundations of Data Science · Generative AI · Information Retrieval · Operating Systems · Database Systems · Applied Econometrics · Data Structures & Algorithms · OOP · Computer Networks
+
+---
+
+## 🎯 Other
+
+- 📣 **Media Head, Digital Media Cell** — grew department online presence by **25%** across 3+ platforms
+
+---
+
+<div align="center">
+
+*Always open to interesting projects, collaborations, and conversations.*
+
+</div>

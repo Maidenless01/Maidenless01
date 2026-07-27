@@ -7,7 +7,7 @@
 *Building things at the intersection of data, language, and systems.*
 
 [![Email](https://img.shields.io/badge/Email-ayan.azim%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ayan.azim@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayyan%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayyan-khan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayyan%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayyan-khan-84664328b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Maidenless01-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Maidenless01)
 
 </div>
